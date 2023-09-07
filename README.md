@@ -27,3 +27,5 @@ $ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
 
 `cd` into the downloaded directory and follow along with the
 [tutorial](https://freshman.tech/pomodoro-timer/).
+
+*transfered all files downloaded from freshman.tech into my own repository for my tracking purposes
